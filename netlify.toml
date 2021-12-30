@@ -14,3 +14,9 @@
   X-XSS-Protection = "1; mode=block"
   Referrer-Policy = "same-origin"
   Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+
+[[redirects]]
+from = "https://enlightening.netlify.app/"
+to = "https://awakening.avadhoot.me/"
+status = 301
+force = true
