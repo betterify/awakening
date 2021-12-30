@@ -1,0 +1,89 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.svg"
+# use `x` with logo_width, example: "100x"
+logo_width = "240x"
+# logo text will only show when logo is missing.
+logo_text = "Andromeda"
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "Avadhoot Dandekar"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+
+# footer information
+footer_info = "When the ray of light passes through the prism, it splits into seven different bands of colors. And when the ray of the pure consciousness passes through the prism of the mind, it creates the bands of waking, dreaming, drugged, and dreamless consciousness."
+
+# contact form action
+contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+
+# copyright
+copyright = "© [Avadhoot Dandekar](https://www.avadhoot.me/) | Designed By [Themefisher](https://themefisher.com/) | Developed By [Gethugothemes](https://gethugothemes.com/)"
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= "" 
+
+# buy premium popup
+buy_premium_popup = true
+
+# Main Sections
+mainSections= ["blog"]
+
+# contact information
+[contact_info]
+address = "Flat No. B-231, South Main Road, Lane No. 7, Koregaon Park, Pune - 411001 (MH, India)"
+phone = ["+91-9158399970", "+91-8830541639"]
+email = ["avadhoot.dandekar@gmail.com", "avadhoot@bettermanagenow.com"]
+
+# imaging processing
+[imaging]
+# Default JPEG or WebP quality setting. Default is 100.
+quality = 100
+
+# Preloader
+[preloader]
+enable = true
+preloader = "images/preloader.png" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "Awakening TV"
+link = "https://www.youtube.com/c/AvadhootDandekar"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+# call-to-action
+[cta]
+enable = true
+title = "Subscribe to Awakening TV"
+content = "When the ray of light passes through the prism, it splits into seven different bands of colors. And when the ray of the pure <br> consciousness passes through the prism of the mind, it creates the bands of waking, dreaming, drugged, and dreamless consciousness."
+button = "Awakening TV"
+button_link = "https://www.youtube.com/c/AvadhootDandekar"
+
+############################# social site ########################
+[[social]]
+title = "Facebook"
+icon = "lab la-facebook-f" # https://icons8.com/line-awesome
+link = "https://www.facebook.com/avadhoot.me"
+
+[[social]]
+title = "Twitter"
+icon = "lab la-twitter" # https://icons8.com/line-awesome
+link = "https://twitter.com/AvadhootMe"
+
+[[social]]
+title = "LinkedIn"
+icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
+link = "https://www.linkedin.com/in/avadhootdandekar2010"
+
+[[social]]
+title = "YouTube"
+icon = "lab la-youtube-square" # https://icons8.com/line-awesome
+link = "https://www.youtube.com/c/AvadhootDandekar"
