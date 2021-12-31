@@ -6,7 +6,7 @@ draft: false
 # who_we_are
 who_we_are:
   enable: true
-  subtitle: "I am what I am?"
+  subtitle: "I am what I am"
   title: "Be a Catalyst and a Change Agent"
   description: "The mystery of the whole existence is that it is a perfect balance. Life is like a wave with equal crests and troughs. And the whole existence is like a circle. The reality is like a perfect wave embedded in a perfect circle. Therefore, the whole life is like the art of a tight rope walker. This is the true art of living!!"
 
