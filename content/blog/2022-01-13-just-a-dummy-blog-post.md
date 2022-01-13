@@ -6,4 +6,4 @@ image: /images/img_20211224_143513.jpg
 type: regular
 tags: blog
 ---
-This is a dummy blog post!!
+This is a dummy blog post!! This post is not getting updated.
