@@ -1,6 +1,6 @@
 ---
 title: This is just a dummy post.
-date: 2021-07-14
+date: 2022-01-13T18:30:00.000Z
 image: images/blog/01.jpg
 author_info:
   name: Abdullah Al Shifat
