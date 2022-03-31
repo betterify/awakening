@@ -1,11 +1,13 @@
 ---
-date: "2021-07-14"
-title: "The Real Product From the Buyers improvements in Overflow basis."
-image: "images/blog/01.jpg"
-author_info: 
-  name: "Abdullah Al Shifat"
-  image: "images/author/abdullah.jpg"
+title: The Real Product From the Buyers improvements in Overflow basis.
+date: 2021-07-14
+image: https://images.unsplash.com/photo-1497215728101-856f4ea42174?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+author_info:
+  name: Abdullah Al Shifat
+  image: images/author/abdullah.jpg
 draft: false
+type: featured
+tags: office
 ---
 
 Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in. Ultrices in nisl potenti vitae tempus. Auctor consectetur luctus eu in amet sagittis. Dis urna, vel hendrerit convallis Senectus feugiat faucibus commodo egestas leo vitae in morbi. Enim arcu dignissim mauris, eu, eget
