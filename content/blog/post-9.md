@@ -1,7 +1,7 @@
 ---
 title: This is just a dummy post.
 date: 2022-01-13T18:30:00.000Z
-image: images/blog/01.jpg
+image: https://source.unsplash.com/szrJ3wjzOMg
 author_info:
   name: Abdullah Al Shifat
   image: images/author/abdullah.jpg
@@ -14,3 +14,5 @@ Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare 
 > ### **This is a dummy blog post!! This post is not getting updated.**
 
 ##### Editing post or adding content from Gitpod is so easry!!
+
+I﻿mage added from **[Unsplash](https://unsplash.com/)**
